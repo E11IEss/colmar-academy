@@ -1,0 +1,57 @@
+*{
+    margin: auto;
+    width:auto;
+}
+
+.logo{
+    display: inline-block;
+    background-color:turquoise;
+    border: solid black;
+    margin-left: 24px;
+}
+
+.name{
+    display: inline-block;
+    background-color: tomato;
+    size: 32px;
+    border: solid black;
+    font-size: 30px;
+    position:absolute;
+}
+
+ul > li {
+    display: inline-block;
+}
+
+#header{
+    background-color:violet;
+    max-height: 64px;
+}
+
+#opening{
+    background-color: green;
+}
+
+.banner{
+    
+}
+
+#intro{
+    background-color: yellow;
+}
+
+#catag{
+    background-color: red;
+}
+
+#exhibit{
+    background-color: blue;
+}
+
+#col1{
+    border: solid black;
+}
+
+#col2{
+    border: solid black;
+}
