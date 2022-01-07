@@ -1,0 +1,155 @@
+*{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+body{
+    margin:0px;
+    padding:0px;
+}
+
+.row{
+    margin: 0px;
+}
+
+/* image element */
+
+#large-image{
+    width: 60%;
+    margin: 32px 24px;
+}
+
+/* header */
+
+#header{
+    background-color: rgb(255, 255, 255);
+    height: 64px;
+}
+
+ul > li {
+    display: inline;
+}
+
+nav{
+    float: right;
+    margin-right: 24px;
+  }
+
+.nav-item{
+    padding-right: 16px
+}
+
+#logo{
+    margin-left: 24px;
+    padding-bottom: 15px;
+}
+
+#name{
+    height: 32px;
+    font-size: 40px;
+}
+
+/* opening */
+#opening{
+    background-color: rgb(199, 199, 199);
+}
+
+.title{
+    text-align: left;
+    font-weight: bold;
+}
+
+.button{
+    padding: 8px;
+    background-color: grey;
+    color: #fff;
+    font-weight: bold;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    width: 75%
+}
+
+#opening-text{
+    color:rgb(66, 66, 66);
+    margin: auto 0;
+}
+
+#opening-text-box{
+    margin:32px
+}
+
+/* intro */
+#intro, h1 p{
+    padding
+}
+
+.intro-maintext{
+    margin-left: 24px;
+}
+
+.intro-right-panel{
+    margin-top: 32px;
+    margin-left:32px;
+}
+
+.thumbnail{
+    width: 35%;
+    margin:16px;
+}
+
+.small-text-box{
+    margin-top: 16px;
+    padding: 16px;
+}
+
+
+/* cards */
+
+#small-title{
+    text-align: center;
+    font-weight: bold;
+    padding:32px 24px
+}
+
+#cards{
+    padding-left: 72px;
+    padding-right: 72px;
+}
+
+#individual-card{
+    padding: 0px 32px 32px 0px;
+}
+
+#card{
+    background-color: rgb(209, 209, 209);
+}
+
+.card-img-top{
+    height: auto;
+}
+
+.card-title{
+    font-weight: bold;
+    margin: 16px
+}
+
+.card-text{
+    margin: 8px 16px
+}
+
+/* exhibit */
+
+.exhibit-maintext{
+    margin: 24px 24px 32px 24px;
+}
+
+/* footer */
+#footer-text{
+    margin: 16px 24px;
+}
+
+/* mobile only */
+
+@media only screen and (max-width: 721px)
